@@ -1,5 +1,5 @@
 # NLOptimizer 🤖
-Convert plain English problems into solvable Pyomo models using ChatGPT.
+Convert plain English optimization problems into insight within seconds.
 
 ## Installation
 ```bash
