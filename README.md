@@ -7,6 +7,9 @@ pip install .
 ```
 
 ## Usage  
+
+[Sample Google Colab Notebook](https://colab.research.google.com/drive/1tFUHLEB1Njj3e9OY4U9ueCUFoosF1tRf?usp=sharing)  
+
 ```python
 from NLOptimizer import PyomoGenerator
 
